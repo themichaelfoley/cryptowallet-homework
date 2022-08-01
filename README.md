@@ -2,7 +2,7 @@
 
 ## View the Cryptocurrency Wallet code [Here](https://github.com/themichaelfoley/cryptowallet-homework/blob/main/Starter-Code/crypto_wallet.py)
 ## View the Ethereum Transaction code [Here](https://github.com/themichaelfoley/cryptowallet-homework/blob/main/Starter-Code/fintech_finder.py)
-## [Click Here to view the full assignment instructions.]((https://github.com/themichaelfoley/cryptowallet-homework/tree/main/Starter-Code))
+## [Click Here to view the full assignment instructions.](https://github.com/themichaelfoley/cryptowallet-homework/tree/main/Starter-Code)
 ## Unit 19 Homework: Cryptocurrency Wallet
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
